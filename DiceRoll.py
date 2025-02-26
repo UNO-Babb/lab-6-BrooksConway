@@ -1,7 +1,7 @@
 #DiceRoll.py
-#Name:
-#Date:
-#Assignment:
+#Name: Brooks Conway
+#Date: 2/26/25
+#Assignment: Lab 6 Dice
 import random
 
 start = 1
